@@ -1,5 +1,3 @@
-This is a professional and comprehensive **README.md** for your project, **NeuraSeek**, written in English. It is designed to attract both investors and developers by highlighting the technical utility and the project's vision.
-
 ---
 
 # 🤖 NeuraSeek ($NSEEK)
